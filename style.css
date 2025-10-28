@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+#navbar
+{
+    border-color: white;
+    background-color: black;
+    height: 60px;
+}
+#name{
+    color:#f08804;
+    font-size: 25px;
+      text-decoration: none;
+}
+
+    input{
+        color: black;
+        border-radius: 5px;
+    }
+
+ button{
+    background-color: #f08804;
+    color: white;
+    border-radius: 5px;
+    height: 25px;
+ }
+   #acc, #cart, #cont, input
+   {
+    margin-left:200px;
+    text-decoration: none;
+    color: white;
+    }
